@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kayra</h1>
+<h1 align="center">Hi, I'm Kayra</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **.Net, Xamarin, Unity, Solidity, Motoko**
